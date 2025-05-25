@@ -22,8 +22,6 @@ Built with ❤️ for the open-source community and midnight coders around the g
 - 🔐 Clean and safe open-source code  
 - ☕ Midnight-coded with love and lots of caffeine  
 
----
-
 ## 📁 Project Structure
 
 kongchat-app/
@@ -47,9 +45,9 @@ kongchat-app/
 ├── ISSUE_TEMPLATE.md
 └── PULL_REQUEST_TEMPLATE.md
 
----
-
 ## 🛠️ Installation
+
+---
 
 ```bash
 git clone https://github.com/kongali1720/kongchat-app.git
@@ -110,6 +108,8 @@ Support with 💸 so I can buy ☕ and keep being 🔥!
 ---
 
 "Karena jadi hacker hati bukan cuma soal kode... tapi juga soal peduli." 🖤
+
+---
 
 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
 
